@@ -50,7 +50,7 @@ POST /chatbot
 5. Enter the test query:
    ```json
    {
-       "query": "What attractions are available at Changi Airport?"
+       "query": "What is there to shop at Changi Airport"
    }
    ```
 6. Click `Send` to receive the chatbot's response.
